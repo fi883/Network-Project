@@ -134,7 +134,7 @@ The following outcomes are expected after correct configuration:
 
 ## Author
 
-- **Name:** \[Your Name\]
-- **Email:** \[Your Email Address\]
-- **GitHub:** \[Your GitHub Profile URL\]
+- **Name:** ologun godwin 
+- **Email:** lankytin@gmail.com
+- **GitHub:** fi883/ologun godwin
 - **Project:** Cisco Packet Tracer Network Topology****
